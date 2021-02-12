@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvSudoku" type="id"/>
+    <item name="linearLayout_Sudoku" type="id"/>
+    <item name="btn_Sudoku" type="id"/>
+</resources>
